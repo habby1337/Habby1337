@@ -3,7 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habby1337" alt="habby1337" /></a> </p>
 
-- 🔭 I’m currently working at **Capgemini**
+- 🔭 I’m currently working at [Capgemini](https://www.capgemini.com/)
+
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **federicotensi@gmail.com**
 
