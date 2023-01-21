@@ -7,7 +7,7 @@
 
 <br>
 
-- 🔭 I’m currently working at [Capgemini](https://www.capgemini.com/)
+- 🔭 I’m currently working at [Expleo Group](https://expleo.com/)
 
 - 🌱 I’m currently learning **AWS**
 
