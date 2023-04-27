@@ -3,14 +3,14 @@
 <br>
 <div align='center'>
 <a href="#">
-  <img align="top" height='150px' src="https://github-readme-stats.vercel.app/api?username=habby1337&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only" />
+  <img align="top" height='220px' src="https://github-readme-stats.vercel.app/api?username=habby1337&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only" />
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=habby1337&show_icons=true&count_private=true&theme=default#gh-light-mode-only" alt="habby1337"/> -->
 </a>
 <a href="#">
-  <img align="center" height='150px' src="https://github-readme-stats.vercel.app/api/wakatime?username=habby&langs_count=9&theme=dark#gh-dark-mode-only" />
+  <img align="center" height='220px' src="https://github-readme-stats.vercel.app/api/wakatime?username=habby&langs_count=9&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="#">
-  <img align="top" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=habby1337&hide=html,c%2B%2B&count_private=true&theme=dark#gh-dark-mode-only" />
+  <img align="top" height='220px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=habby1337&hide=html,c%2B%2B&count_private=true&theme=dark#gh-dark-mode-only" />
 </a>
   </div>
 
