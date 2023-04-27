@@ -3,14 +3,14 @@
 <br>
 <div align='center'>
 <a href="#">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=habby1337&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only" />
+  <img align="top" height='150px' src="https://github-readme-stats.vercel.app/api?username=habby1337&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only" />
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=habby1337&show_icons=true&count_private=true&theme=default#gh-light-mode-only" alt="habby1337"/> -->
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=habby&langs_count=9&theme=dark#gh-dark-mode-only" />
+  <img align="center" height='150px' src="https://github-readme-stats.vercel.app/api/wakatime?username=habby&langs_count=9&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="#">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habby1337&hide=html,c%2B%2B&count_private=true&theme=dark#gh-dark-mode-only" />
+  <img align="top" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=habby1337&hide=html,c%2B%2B&count_private=true&theme=dark#gh-dark-mode-only" />
 </a>
   </div>
 
@@ -51,6 +51,11 @@
 </p>
 
 <br>
+
+
+### 🎵 Anyways this is what i'm listening now...
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=habby1337&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=4e62b1&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=habby1337&redirect=true)
+
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=habby1337&show_icons=true&locale=en&layout=compact" alt="habby1337" /> -->
 
 <br>
