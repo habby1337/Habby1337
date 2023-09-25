@@ -10,7 +10,6 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 📫 How to reach me **federicotensi@gmail.com**
 
 <br/>
 
