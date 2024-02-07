@@ -19,7 +19,7 @@
 <h1>📊 Stats: </h1>
 <div align='center'>
 <a href="#">
-  <img align="top" height='220px' src="https://github-readme-stats.vercel.app/api?username=habby1337&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only" />
+  <img align="top" height='220px' src="https://github-readme-stats.vercel.app/api?username=habby1337&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only&rank_icon=percentile&incluede_all_commits=true" />
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=habby1337&show_icons=true&count_private=true&theme=default#gh-light-mode-only" alt="habby1337"/> -->
 </a>
 <a href="#">
