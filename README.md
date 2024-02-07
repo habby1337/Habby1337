@@ -4,14 +4,6 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habby1337" alt="habby1337" /></a> </p> -->
 
-<br>
-
-- 🔭 I’m currently working at [Expleo Group](https://expleo.com/)
-
-- 🌱 I’m currently learning **AWS**
-
-
-<br/>
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
