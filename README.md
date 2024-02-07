@@ -47,23 +47,23 @@
 	<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white" />
 	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
 	<img src="https://img.shields.io/badge/Next.js-black.svg?style=flat&logo=next.js&?labelColor=black" />
-	<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" />
-	<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white" />
+<!-- 	<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" />
+	<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white" /> -->
 	<img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
-	<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" />
+<!-- 	<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" />
 	<img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens" />
 	<img src="https://img.shields.io/badge/Python-1f3b47.svg?style=flat&logo=python&logoColor=ffd343&?labelColor=black" />
 	<img src="https://img.shields.io/badge/Php-%23316192.svg?style=flat&logo=php&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySql-3E6E93.svg?style=flat&logoColor=white&logo=mysql&?labelColor=black" />
-	<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" />
+	<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" /> -->
 	<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" />
-	<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" />
+<!-- 	<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" />
 	<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" />
 	<img src="https://img.shields.io/badge/AWS-FF9900.svg?style=flat&logo=amazon&logoColor=black&?labelColor=black" />
 	<img src="https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white" />
 	<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 	<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
-	<img src="https://img.shields.io/badge/Jest-1e7b1c.svg?style=flat&logoColor=white&logo=jest&?labelColor=black" />
+	<img src="https://img.shields.io/badge/Jest-1e7b1c.svg?style=flat&logoColor=white&logo=jest&?labelColor=black" /> -->
 
 
 </p>
