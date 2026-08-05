@@ -33,14 +33,13 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=habby1337&theme=transparent&hide_border=true"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=habby1337&theme=transparent&hide_border=true"/>
+<img src="https://github-stats-extended.vercel.app/api?username=habby1337&theme=transparent&hide_border=true"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habby1337&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/> -->
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=habby1337&no-bg=true&theme=flat&no-frame=true&rank=-?,-C"/>
+<img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=habby1337&no-bg=true&theme=flat&no-frame=true&rank=-?,-C"/>
 </div>
 
 
@@ -48,7 +47,7 @@
 
 
 ### 🎵 Anyways this is what i'm listening right now...
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=habby1337&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=4e62b1&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=habby1337&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=habby1337&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&mode=light&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=habby1337&redirect=true)
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=habby1337&show_icons=true&locale=en&layout=compact" alt="habby1337" /> -->
 
